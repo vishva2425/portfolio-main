@@ -48,9 +48,9 @@ Manage employees, roles, and attendance easily.
 ## 💬 Let’s Connect
 
 🌐 [Portfolio Website](#)  
-💼 [LinkedIn](#)  
-📧 [youremail@gmail.com](mailto:vishvavs2512@gmail.com)  
+💼 [https://www.linkedin.com/in/vishva-perumal-812572258](#)  
+📧 [vishvavs2512@gmail.com](mailto:youremail@gmail.com)  
 
 ---
 
- “Building ideas into reality — one line of code at a time.” 🚀
+> “Building ideas into reality — one line of code at a time.” 🚀
